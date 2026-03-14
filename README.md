@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/grishmadosi/75DayChallenge/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/grishmadosi/75DayChallenge/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/grishmadosi/75DayChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Dynamic Programming
 |  |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/grishmadosi/75DayChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/grishmadosi/75DayChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/grishmadosi/75DayChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/grishmadosi/75DayChallenge/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
