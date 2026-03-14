@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/grishmadosi/75DayChallenge/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0052-n-queens-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/grishmadosi/75DayChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Array
 |  |
