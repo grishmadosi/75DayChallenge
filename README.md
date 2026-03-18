@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/grishmadosi/75DayChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/grishmadosi/75DayChallenge/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/grishmadosi/75DayChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/grishmadosi/75DayChallenge/tree/master/0198-house-robber) |
