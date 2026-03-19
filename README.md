@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/grishmadosi/75DayChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/grishmadosi/75DayChallenge/tree/master/0198-house-robber) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/grishmadosi/75DayChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/grishmadosi/75DayChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/grishmadosi/75DayChallenge/tree/master/0242-valid-anagram) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/grishmadosi/75DayChallenge/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
