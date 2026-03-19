@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0064-minimum-path-sum) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
