@@ -1,4 +1,9 @@
 class Solution {
+
+    //Process
+    //first find the dip, if no dip then just reverse
+    //swap the just largest number with the dip, find the largest from the end;
+    //reverse it after the dip till the end
     public void nextPermutation(int[] nums) {
         int idx = 0;
         int flag = 0;
