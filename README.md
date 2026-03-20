@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/grishmadosi/75DayChallenge/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/grishmadosi/75DayChallenge/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/grishmadosi/75DayChallenge/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/grishmadosi/75DayChallenge/tree/master/0394-decode-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/grishmadosi/75DayChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Dynamic Programming
 |  |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/grishmadosi/75DayChallenge/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/grishmadosi/75DayChallenge/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
