@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/grishmadosi/75DayChallenge/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/grishmadosi/75DayChallenge/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/grishmadosi/75DayChallenge/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/grishmadosi/75DayChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/grishmadosi/75DayChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/grishmadosi/75DayChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/grishmadosi/75DayChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/grishmadosi/75DayChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/grishmadosi/75DayChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/grishmadosi/75DayChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/grishmadosi/75DayChallenge/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/grishmadosi/75DayChallenge/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
