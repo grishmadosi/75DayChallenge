@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/grishmadosi/75DayChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/grishmadosi/75DayChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/grishmadosi/75DayChallenge/tree/master/0455-assign-cookies) |
+| [0930-binary-subarrays-with-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/grishmadosi/75DayChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/grishmadosi/75DayChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/grishmadosi/75DayChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -127,4 +129,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/grishmadosi/75DayChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
