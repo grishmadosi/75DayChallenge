@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/grishmadosi/75DayChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/grishmadosi/75DayChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/grishmadosi/75DayChallenge/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/grishmadosi/75DayChallenge/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/grishmadosi/75DayChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/grishmadosi/75DayChallenge/tree/master/0455-assign-cookies) |
 ## Stack
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/grishmadosi/75DayChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
