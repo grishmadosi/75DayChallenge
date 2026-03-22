@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0040-combination-sum-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/grishmadosi/75DayChallenge/tree/master/0455-assign-cookies) |
 ## Matrix
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
 | [0392-is-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/grishmadosi/75DayChallenge/tree/master/0455-assign-cookies) |
