@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/grishmadosi/75DayChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/grishmadosi/75DayChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/grishmadosi/75DayChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/grishmadosi/75DayChallenge/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
