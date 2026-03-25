@@ -5,18 +5,28 @@ class Solution {
         // Arrays.fill(dp,-1);
         // return money(nums, n,0, dp);
 
-        //----Tabulation form
-        int[] dp = new int[n];
-        if(n == 0) return 0;
-        if(n == 1) return nums[0];
+        //----Tabulation form-----
+        // int[] dp = new int[n];
+        // if(n == 0) return 0;
+        // if(n == 1) return nums[0];
 
-        dp[0] = nums[0];
-        dp[1] = Math.max(nums[0], nums[1]);
+        // dp[0] = nums[0];
+        // dp[1] = Math.max(nums[0], nums[1]);
 
-        for(int i = 2; i < nums.length; i++){
-            dp[i] = Math.max(dp[i-1], dp[i-2]+nums[i]);
+        // for(int i = 2; i < nums.length; i++){
+        //     dp[i] = Math.max(dp[i-1], dp[i-2]+nums[i]);
+        // }
+        // return dp[n-1];
+
+        //------Space Optimization------
+        int prev = 0; //dp[i-1]
+        int prev2 = 0;  //dp[i-2]
+        for(int i = 0; i < nums.length; i++){
+            int curr = Math.max(prev, prev2+nums[i]);
+            prev2 = prev;
+            prev = curr;
         }
-        return dp[n-1];
+        return prev;
     }
     // public int money(int[] nums, int n, int idx,int[] dp){
     //     if(idx == n-1) return nums[idx];
