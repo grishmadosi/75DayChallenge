@@ -4,8 +4,14 @@ class Solution {
         int l = 0, r = height.length-1;
         int tot = 0;
         while(l < r){
-            lmax = Math.max(lmax,height[l]);  //ek max range nikalenge
-            rmax = Math.max(rmax,height[r]);
+            //lmax = Math.max(lmax,height[l]);  //ek max range nikalenge
+            if(lmax < height[l]){
+                lmax = height[l];
+            }
+            //rmax = Math.max(rmax,height[r]);
+            if(rmax < height[r]){
+                rmax = height[r];
+            }
 
             if(lmax < rmax){     //least value se fark padega to always search for minimum
                 tot += (lmax-height[l]);
