@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/grishmadosi/75DayChallenge/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/grishmadosi/75DayChallenge/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/grishmadosi/75DayChallenge/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/grishmadosi/75DayChallenge/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/grishmadosi/75DayChallenge/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/grishmadosi/75DayChallenge/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grishmadosi/75DayChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/grishmadosi/75DayChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
