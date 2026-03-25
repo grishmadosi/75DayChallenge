@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/grishmadosi/75DayChallenge/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/grishmadosi/75DayChallenge/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/grishmadosi/75DayChallenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/grishmadosi/75DayChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grishmadosi/75DayChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -124,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/grishmadosi/75DayChallenge/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/grishmadosi/75DayChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/grishmadosi/75DayChallenge/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/grishmadosi/75DayChallenge/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/grishmadosi/75DayChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/grishmadosi/75DayChallenge/tree/master/0394-decode-string) |
 ## Recursion
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/grishmadosi/75DayChallenge/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/grishmadosi/75DayChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
